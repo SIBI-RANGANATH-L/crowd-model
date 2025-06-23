@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+opencv-python
+numpy
+pandas
+firebase-admin
+ultralytics
+python-multipart
+websockets
